@@ -464,11 +464,6 @@ footer span .fa-heart{
 
 
 /* responsive media query start*/
-@media (max-width: 1300px) {
-    .home .max-width{
-        margin-left: 0px;
-    }
-}
 
 @media (max-width: 1104px) {
     .home .home-content .text-1{
